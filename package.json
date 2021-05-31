@@ -1,0 +1,23 @@
+{
+  "name": "vue2-ts",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "@vue/composition-api": "*",
+    "sass": "^1.34.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue-tsc": "^0.1.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "vite": "^2.3.4",
+    "vite-plugin-vue2": "^1.5.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
